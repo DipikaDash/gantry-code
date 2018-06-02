@@ -1,0 +1,28 @@
+point #,Name,relative?,Y,X,Z,rot
+0,Maintainence position,0,400,0,0,0
+1,Rack slot 1 top,0,17.689,299.558,0,0
+2,Rack slot 1 mid,0,17.689,299.558,23.2,0
+3,Rack slot 1 touch,0,17.689,299.558,24.5,0
+4,Rack slot 1 remove,0,80,299.558,23.2,0
+5,Rack slot 2 top,0,18.614,452.246,0,0
+6,Rack slot 2 mid,0,18.614,452.246,39,0
+7,Rack slot 2 touch,0,18.614,452.246,41.65,0
+8,Rack slot 2 remove,0,80,452.246,39,0
+9,Rack slot 3 top,0,18.414,605.007,0,0
+10,Rack slot 3 mid,0,18.414,605.007,39,0
+11,Rack slot 3 touch,0,18.414,605.007,41.65,0
+12,Rack slot 3 remove,0,80,605.007,39,0
+13,Glue Reservior top,0,356.503,482.388,0,0
+14,Glue Reservior down stamp,0,356.503,482.388,90,0
+15,HDI up right top,0,518.766,498.405,0,0
+16,HDI up right down,0,518.766,498.405,93.584,0
+17,HDI up left top,0,518.956,479.994,0,0
+18,HDI up left down,0,518.956,479.994,93.584,0
+19,HDI down left top,0,583.498,479.924,0,0
+20,HDI down left down,0,583.498,479.924,93.584,0
+21,Module up right top,0,516.297,422.048,0,0
+22,Module up right down,0,516.297,422.048,93.109,0
+23,Module up left top,0,516.341,403.758,0,0
+24,Module up left down,0,516.341,403.758,93.109,0
+25,Module down left top,0,583.228,403.931,0,0
+26,Module down left down,0,583.228,403.931,93.109,0
